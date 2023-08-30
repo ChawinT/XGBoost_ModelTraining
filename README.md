@@ -18,5 +18,5 @@ Main code:
 4) Others
    Result files generated from 1,2,3
 
-## This github doens't contains training data due to a large file size. The training data can be collect from running sessions in https://github.com/ChawinT/XGBoost_TBBE using the setup in the dissertation. 
+## This github doens't contain training data due to a large file size. The training data can be collect from running sessions in https://github.com/ChawinT/XGBoost_TBBE using the setup in the dissertation. 
 
