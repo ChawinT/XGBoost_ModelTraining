@@ -7,15 +7,19 @@ The main purpose of this code is for Pre-processing data from  https://github.co
 
 Main code: 
 1) xgbosstTraining.ipynb
+   
    The Preprocessing + Training of the model. Details are in the 'Markdown' and commented section of the code.
 
-2) StatTest100.ipynb
+3) StatTest100.ipynb
+   
    This code is for statistical hypothesis testing for testing scenario 1 of the dissertation.
 
-3) StatTest5.ipynb
+5) StatTest5.ipynb
+   
    This code is for statistical hypothesis testing for testing scenario 2 of the dissertation.
 
-4) Others
+7) Others
+   
    Result files generated from 1,2,3
 
 ## This github doens't contain training data due to a large file size. The training data can be collect from running sessions in https://github.com/ChawinT/XGBoost_TBBE using the setup in the dissertation. 
